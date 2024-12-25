@@ -1,4 +1,4 @@
-# Hi there, I'm Sandeep Prajapati! 👋
+# Hi, I'm Sandeep Prajapati! 👋
 
 🎓 **BCA Final Year Student** at [Kashi Institute of Technology, Varanasi](https://kit.edu.in)
 
