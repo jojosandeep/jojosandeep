@@ -17,7 +17,7 @@
   - Crafting interactive and user-friendly web interfaces
   - Learning and sharing knowledge through Open Source
 
-📫 **Let's Connect:**
+# 📫 **Let's Connect:**
   - [📧 Email](sp45292005@gmail.com)
      | [🌐Portfolio](https://sandeep001.netlify.app/) | [💼LinkedIn](https://www.linkedin.com/in/sandeep-prajapati-53874b245/)
 
