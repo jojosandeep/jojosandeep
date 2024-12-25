@@ -4,10 +4,10 @@
 
 💻 **Passionate about Web Development** with expertise in:
   - HTML
-  - CSS
-  - JavaScript
-  - React
-  - Open Source Contributions
+  | CSS
+  | JavaScript
+  | React
+  | Open Source Contributions
 
 🚀 **Currently Working On**:
   - An **Expense Tracking System**
